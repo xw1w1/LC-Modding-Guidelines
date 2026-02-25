@@ -112,6 +112,8 @@ They include leafless trees, a pile of rocks, a giant pumpkin, etc.
 
 **`Enemies`** - a list of creatures that will appear inside the facility.
 
+https://lethal.miraheze.org/wiki/Entities
+
 <img width="839" height="446" alt="image" src="https://github.com/user-attachments/assets/fc11729c-1645-4304-8ebb-d46e944993f1" />
 
 | Field | Description |
