@@ -1,4 +1,4 @@
-# SelectableLevel.
+# SelectableLevel
 **`SelectableLevel`** is an **entity** representing a game level or moon variant that the player can select from the menu (`Moon Catalog`) before starting an expedition.
 Simply, every moon in Lethal Company, modded or not, is a **`SelectableLevel`**.
 
