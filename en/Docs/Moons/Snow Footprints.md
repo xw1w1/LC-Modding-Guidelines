@@ -9,5 +9,6 @@
 ### 3. Go to your `Terrain` and set it's Tag to "`Snow`".
 <img width="534" height="144" alt="image" src="https://github.com/user-attachments/assets/b461e4cb-5fcf-496b-8b60-a6bbce88f84c" />
 
-
 well that's all !
+
+<img width="1918" height="1079" alt="Снимок экрана 2026-02-25 191548" src="https://github.com/user-attachments/assets/c6b3c8c7-7307-479c-be35-d5ddf260637f" />
