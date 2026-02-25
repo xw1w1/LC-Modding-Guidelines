@@ -18,15 +18,11 @@ Thus, **`SelectableLevel`** acts as a node between the selection menu and the ac
 | `Locked For Demo` | Determines whether your planet will be open for visiting in demo, _hovewer i ain't really seen any kind of demo for Lethal Company, so just left it unchecked_. |
 | `Spawn Enemies And Scrap` | Determines whether enemies and scrap should spawn on this moon. |
 | `Planet Name` | The name of your moon. Example: `12 Aerona`. |
-| `Level Description` | The description of the planet. Exactly what appears on the main ship monitor when you are in orbit of this planet. There are no any strict limits about it's size, but you may look at it in game and see if it looks good. In other case, you can do as much as you want, just add [AutoScroll](https://thunderstore.io/c/lethal-company/p/mrov/AutoScroll/) as a dependency so that the text slowly scrolls when it’s on the main monitor if it’s too long instead of being cut off. |
+| `Level Description` | The description of the planet. Exactly what appears on the main ship monitor when you are in orbit of this planet. <br /> There are no any strict limits about it's size, but you may look at it in game and see if it looks good. In other case, you can do as much as you want, just add [mrov's AutoScroll](https://thunderstore.io/c/lethal-company/p/mrov/AutoScroll/) as a dependency so that the text slowly scrolls when it’s on the main monitor if it’s too long instead of being cut off. |
 | `Video Reel` | The video clip that appears on the main ship monitor when you are orbiting this planet. |
-| `Risk Level` | The danger level of the planet. `A`, `B`, `C`, `D`, `S`, `S+`, `S++`, anything of your choice. In game, it is displayed as `Hazard Level` when you land on the planet. |
-| `Time To Arrive` | The amount of time it will take for the ship to land. In the case of `Adamance`, it's 4 seconds. |
-| `Day Speed Multiplier` | The speed multiplier at which the day passes on the planet. Standard is `1`, but if you want to slow down or speed up time on the planet, you can play around with it. |
-
-   **However, changing `DaySpeedMultiplier` can cause the game to count two days instead of one.**
-
-   **`DawbLib` fixes it natively, but in case of `Lethal Level Loader` you need to use [WhiteSpike's Moon Day Speed Multiplier Patcher](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Moon_Day_Speed_Multiplier_Patcher/) to prevent this.**
+| `Risk Level` | The danger level of the planet. <br /> `A`, `B`, `C`, `D`, `S`, `S+`, `S++`, anything of your choice. <br /> In game, it is displayed as `Hazard Level` when you land on the planet. |
+| `Time To Arrive` | The amount of time it will take for the ship to land. <br /> In the case of `Adamance`, it's 4 seconds. |
+| `Day Speed Multiplier` | The speed multiplier at which the day passes on the planet. <br /> Standard is `1`, but if you want to slow down or speed up time on the planet, you can play around with it. <br /> **However, changing `DaySpeedMultiplier` can cause the game to count two days instead of one.** <br /> **`DawbLib` fixes it natively, but in case of `Lethal Level Loader` you need to use [WhiteSpike's Moon Day Speed Multiplier Patcher](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Moon_Day_Speed_Multiplier_Patcher/) to prevent this.** |
 
 ## Weather Settings (Random Weathers).
 <img width="839" height="528" alt="image" src="https://github.com/user-attachments/assets/ec6d8896-225b-44f1-b181-c21b4a24758b" />
