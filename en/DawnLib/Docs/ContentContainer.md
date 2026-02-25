@@ -31,7 +31,8 @@ It can hold a mix of Enemies, Items or anything else your mod adds.
 | **Debug Vanilla NamespacedKey** | Used internally by DawnLib developers to generate vanilla keys for debugging after updates. You can ignore this.
 
 ### You can learn more about:
-- **`DawnLib ContentContainer`** in `B.2 Registering via Unity Editor` section under `DawnLib`'s Wiki: https://thunderstore.io/c/lethal-company/p/TeamXiaolan/DawnLib/wiki/4099-b2-registering-via-unity-editor/
+- **`DawnLib ContentContainer`** in `B.2 Registering via Unity Editor` section under `DawnLib`'s Wiki:
+  - [https://thunderstore.io/c/lethal-company/p/TeamXiaolan/DawnLib/wiki/](https://thunderstore.io/c/lethal-company/p/TeamXiaolan/DawnLib/wiki/4099-b2-registering-via-unity-editor/)
 - `Unity's AssetBundles`:
   - [Introducing to AssetBundles](https://docs.unity3d.com/6000.3/Documentation/Manual/AssetBundlesIntro.html)
   - [Preparing AssetBundles](https://docs.unity3d.com/6000.3/Documentation/Manual/AssetBundles-Preparing.html)
