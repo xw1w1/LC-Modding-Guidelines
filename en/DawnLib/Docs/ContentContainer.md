@@ -15,8 +15,10 @@ You can inclide as much content as you like in a single **AssetBundle**.
 
 <img width="555" height="304" alt="image" src="https://github.com/user-attachments/assets/d46a3496-c3bf-4a46-828e-2cb4ac427a0a" />
 
-### in short:
+### In short:
 A single **ContentContainer** doesn't need to represent only one thing.
+
+It organizes your mod's content and lets you divide your mod into separate parts without needing to upload multiple mods.
 
 It can hold a mix of Enemies, Items or anything else your mod adds.
 
