@@ -24,9 +24,9 @@ Thus, **`SelectableLevel`** acts as a node between the selection menu and the ac
 | `Time To Arrive` | The amount of time it will take for the ship to land. In the case of `Adamance`, it's 4 seconds. |
 | `Day Speed Multiplier` | The speed multiplier at which the day passes on the planet. Standard is `1`, but if you want to slow down or speed up time on the planet, you can play around with it. |
 
-   However, changing it can cause the game to count two days instead of one.
+   **However, changing `DaySpeedMultiplier` can cause the game to count two days instead of one.**
 
-   DawbLib fixes it natively, but in case of Lethal Level Loader you need to use [WhiteSpike's Moon Day Speed Multiplier Patcher](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Moon_Day_Speed_Multiplier_Patcher/) to prevent this.
+   **`DawbLib` fixes it natively, but in case of `Lethal Level Loader` you need to use [WhiteSpike's Moon Day Speed Multiplier Patcher](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Moon_Day_Speed_Multiplier_Patcher/) to prevent this.**
 
 ## Weather Settings (Random Weathers).
 <img width="839" height="528" alt="image" src="https://github.com/user-attachments/assets/ec6d8896-225b-44f1-b181-c21b4a24758b" />
