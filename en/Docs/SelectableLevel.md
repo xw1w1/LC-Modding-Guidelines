@@ -71,7 +71,7 @@ Here you can customize them, remove one, or edit them, but often this element is
 
 They include leafless trees, a pile of rocks, a giant pumpkin, etc.
 
-## Scrap Settings.
+# Scrap Settings.
 
 ### Scrap appearing inside the facility (Spawnable Scrap).
 <img width="849" height="218" alt="image" src="https://github.com/user-attachments/assets/38f2e746-39c0-48d4-a2be-226965e3a7b3" />
