@@ -50,7 +50,7 @@ Thus, **`SelectableLevel`** acts as a node between the selection menu and the ac
 ### Indoors sound library (Dungeon Flow Types).
 <img width="932" height="399" alt="image" src="https://github.com/user-attachments/assets/9bf3cdbe-0818-423b-857c-f1c652fa6d6f" />
 
-- **`LevelAudienceLibrary`** - a library of random audios that play on the interior.
+- **`LevelAudienceLibrary`** - a library of random audios that play at the background.
 
 | Field | Description |
 | :--------- | :---- |
