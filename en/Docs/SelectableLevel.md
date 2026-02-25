@@ -14,7 +14,7 @@ Thus, **`SelectableLevel`** acts as a node between the selection menu and the ac
 | :-------- | :---- |
 | `Planet Prefab` | Planet prefab, which is drawn on the outside of the ship and is usually not even visible. There are currently three types: `Moon 1` (Deserted), `Moon 2` (Leash forest), `Moon 3` (Snowy). <img width="237" height="93" alt="image" src="https://github.com/user-attachments/assets/a5367597-cbf9-470b-a759-cc8a9b4ccb67" /> |
 | `Scene Name` | A fairly self-descriptive field name. You must enter the EXACT name of the scene where your "moon" will be placed. |
-| `Level ID` | Doesn't matter in our case. Set it to `0`, then LLL will do all the work itself at runtime. |
+| `Level ID` | The ID under which your moon will be located. Usually, the APIs themselves assign this at runtime, so just leave it at `0`. |
 | `Locked For Demo` | Determines whether your planet will be open for visiting in demo, _hovewer i ain't really seen any kind of demo for Lethal Company, so just left it unchecked_. |
 | `Spawn Enemies And Scrap` | Determines whether enemies and scrap should spawn on this moon. |
 | `Planet Name` | The name of your moon. Example: `12 Aerona`. |
