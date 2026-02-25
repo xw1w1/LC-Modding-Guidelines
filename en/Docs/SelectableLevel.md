@@ -172,6 +172,6 @@ Both of these settings affect the variability of random enemy spawns, not their 
 
 ## How to add snow footprints to your moon: 
 
-https://github.com/xw1w1/LC-Modding-Guidelines/edit/main/en/Docs/Moons/SnowFootprints.md
+https://github.com/xw1w1/LC-Modding-Guidelines/blob/main/en/Docs/Moons/Snow%20Footprints.md
 
 # * - I'm not entirely sure about this statement.
