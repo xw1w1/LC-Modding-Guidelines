@@ -47,10 +47,12 @@ Thus, **`SelectableLevel`** acts as a node between the selection menu and the ac
 
    On `Titan`, this value is `2.2`, while on `Experimentation` it's `1`. Choose the one that's comfortable for you.
 
-### Indoors sound library (Dungeon Flow Types).
+### Sound library (Dungeon Flow Types).
 <img width="932" height="399" alt="image" src="https://github.com/user-attachments/assets/9bf3cdbe-0818-423b-857c-f1c652fa6d6f" />
 
 - **`LevelAudienceLibrary`** - a library of random audios that play at the background.
+
+   This library includes indoors, outdoors, ship background music, as well as the "panic sounds".
 
 | Field | Description |
 | :--------- | :---- |
