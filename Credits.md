@@ -19,7 +19,9 @@
 
 
 - **Sniper1.1** (GUID-Reconnector creator)
+
 `GitHub`: https://github.com/Sniper1-1/
+
 `Thunderstore`: https://thunderstore.io/c/lethal-company/p/Sniper1_1/
 
 
