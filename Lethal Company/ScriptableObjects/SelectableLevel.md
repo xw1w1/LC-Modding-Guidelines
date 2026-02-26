@@ -164,7 +164,7 @@ While daytime enemies will have a wider variation (±`DaytimeEnemiesProbabilityR
 
 Both of these settings affect the variability of random enemy spawns, not their absolute weights/percentages.
 
-## Other level settings.
+# Other level settings.
 <img width="834" height="48" alt="image" src="https://github.com/user-attachments/assets/eadd3dd9-b289-4243-85cf-4b29188009ea" />
 
 | Field | Description |
@@ -174,6 +174,6 @@ Both of these settings affect the variability of random enemy spawns, not their 
 
 ## How to add snow footprints to your moon: 
 
-https://github.com/xw1w1/LC-Modding-Guidelines/blob/main/en/Docs/Moons/Snow%20Footprints.md
+- [Docs/Modding/Moons/Other/Snow Footprints.md](/Lethal%20Company/Modding/Moons/Other/Snow%20Footprints.md)
 
 # * - I'm not entirely sure about this statement.
