@@ -4,4 +4,4 @@
 
 At this moment, there are currently only 1 modding section:
 
-- **[Moons](https://lethal-company-modding-guides.gitbook.io/lethal-company-modding-guides/moons)**
+- **[Moons](/Lethal%20Company/Modding/Moons.md)**
