@@ -4,10 +4,10 @@
 * Docs
   * [Moons](Moons.md)
     * DawnLib
-      * [Project Setup](https://github.com/xw1w1/LC-Modding-Guidelines/blob/main/Lethal%20Company/DawnLib/1.%20Project%20Setup.md)
-      * [Mod Setup](https://github.com/xw1w1/LC-Modding-Guidelines/blob/main/Lethal%20Company/DawnLib/2.%Mod%20Setup.md)
+      * [Project Setup](Lethal Company/DawnLib/1. Project Setup.md)
+      * [Mod Setup](Lethal Company/DawnLib/2. Mod Setup.md)
     * LethalLevelLoader
-      * [Project Setup](https://github.com/xw1w1/LC-Modding-Guidelines/blob/main/Lethal%20Company/LethalLevelLoader/1.%20Project%20Setup.md)
-      * [Mod Setup](https://github.com/xw1w1/LC-Modding-Guidelines/blob/main/Lethal%20Company/LethalLevelLoader/2.%Mod%20Setup.md)
-  * [Selectable Level](https://github.com/xw1w1/LC-Modding-Guidelines/blob/main/Lethal%20Company/Docs/SelectableLevel.md)
+      * [Project Setup](Lethal Company/LethalLevelLoader/1. ProjectSetup.md)
+      * [Mod Setup](Lethal Company/LethalLevelLoader/2. ModSetup.md)
+  * [Selectable Level](Lethal Company/Docs/SelectableLevel.md)
 * [Credits](Credits.md)
