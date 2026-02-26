@@ -27,7 +27,7 @@ Thus, **`SelectableLevel`** acts as a node between the selection menu and the ac
 ## Weather Settings (Random Weathers).
 <img width="839" height="528" alt="image" src="https://github.com/user-attachments/assets/ec6d8896-225b-44f1-b181-c21b4a24758b" />
 
-**`Random Weathers`** - is an array of elements that will be used when choosing the weather. |
+- **`Random Weathers`** is an array of elements that will be used when choosing the weather.
 
 | Field | Description |
 | :--------- | :---- |
