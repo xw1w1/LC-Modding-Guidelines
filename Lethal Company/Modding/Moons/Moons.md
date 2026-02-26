@@ -2,8 +2,8 @@
 
 ### This repository contains two approaches to custom moon creation:
 
-- Using **`DawnLib`**: [Moons/DawnLib](/Lethal%20Company/DawnLib)
-- Using **`Lethal Level Loader`**: [Moons/LethalLevelLoader](/Lethal%20Company/LethalLevelLoader)
+- Using **`DawnLib`**: [Moons/DawnLib](/Lethal%20Company/Modding/Moons/DawnLib/1.%20Project%20Setup.md)
+- Using **`Lethal Level Loader`**: [Moons/LethalLevelLoader](/Lethal%20Company/Modding/Moons/LethalLevelLoader/1.%20Project%20Setup.md)
 
 **You need to start from the [editor setup guide](/Lethal%20Company/1.%20Setup.md) anyway.**
 
