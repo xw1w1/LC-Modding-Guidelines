@@ -2,5 +2,4 @@
 
 * [About](About.md)
 * [Credits](Credits.md)
-* Moons
-  * [Moons](Moons.md)
+* [Moons](Moons.md)
