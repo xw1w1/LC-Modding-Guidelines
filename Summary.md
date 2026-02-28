@@ -19,7 +19,7 @@
     * Other guides
       * Moons
         * [Snow Footprints on the ground](/Lethal%20Company/Modding/Other/Moons/Snow%20Footprints.md)
-        * [How to split and use vanilla meshes](/Lethal%20Company/Modding/Other/MoonsSnow%20Footprints.md)
+        * [How to split and use vanilla meshes](/Lethal%20Company/Modding/Other/Moons/Mesh%20Splitting.md)
   * Scriptable Objects
      * [Selectable Level](/Lethal%20Company/ScriptableObjects/SelectableLevel.md)
 * [Credits](Credits.md)
