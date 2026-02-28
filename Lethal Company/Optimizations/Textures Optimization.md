@@ -19,17 +19,19 @@ Open any Texture and look at it's settings.
 | Field | Value |
 | :---- | :---- |
 | Read/Write | Better let it be enabled. |
-| Max Size | To achieve a more "vanilla" look, set it to `512`. You can set the resolution lower for textures that are barely visible, but `512` is the standard. <br />If you feel that the quality has dropped too much, set it to `1024`, but don't go any higher than that please. |
+| Max Size | To achieve a more "vanilla" look, set it to `512`. <br /> You can set the resolution lower for textures that are barely visible, but `512` is the standard. <br />If you feel that the quality has dropped too much, set it to `1024`, but don't go any higher than that please. |
 | Compression | For a more "vanilla" look, use `Normal Quality`, but you can always go lower; it won't be very noticeable in the game. |
 | Use Crunch Compression | Use Crunch Compression. |
 | Copressor Quality | Normally you can set it to `50%`, but for some textures you can go down to `0%`, it depends on your choice. |
 
-**For some Textures** make sure they are actually Normals:
+**For some Normal Maps** make sure they are actually Normals:
 
 <img width="771" height="180" alt="image" src="https://github.com/user-attachments/assets/1fbf6b3c-5a9d-463d-9ac2-a495053f5161" />
+
+**By performing this compression procedure for each "Map", you can significantly reduce the size of the `Material`, and thus all bundles themselves.**
 
 Don't forget to check for overrides aswell (you don't need them).
 
 <img width="759" height="152" alt="image" src="https://github.com/user-attachments/assets/a9013b5c-5123-472b-b6a3-6f7eb5e76481" />
 
-s1ckboy https://github.com/s1ckboii
+**Credits to @s1ckboy ([s1ckboii]([https://github.com/Sniper1-1](https://github.com/s1ckboii)) for this guide in [Lethal Company Modding](https://discord.gg/raXqCP6NZw) Discord)**
