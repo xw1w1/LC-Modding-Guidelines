@@ -2,6 +2,4 @@
 
 # This repository was created to centralize existing modding guides for Lethal Company.
 
-At this moment, there are currently only 1 modding section:
-
-- **[Moons](/Lethal%20Company/Modding/Moons.md)**
+Feel free to PR your own guides to this repository.
