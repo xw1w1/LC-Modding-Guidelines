@@ -11,15 +11,15 @@
         * [Moon Setup](/Lethal%20Company/Modding/DawnLib/Moons/1.%20Moon%20Setup.md)  
       * Docs
         * [ContentContainer](/Lethal%20Company/Modding/DawnLib/Docs/ContentContainer.md)
-      * LethalLevelLoader
-        * [Project Setup](/Lethal%20Company/Modding/LethalLevelLoader/1.%20Project%20Setup.md)
-        * [Mod Setup](/Lethal%20Company/Modding/LethalLevelLoader/2.%20Mod%20Setup.md)
+    * LethalLevelLoader
+      * [Project Setup](/Lethal%20Company/Modding/LethalLevelLoader/1.%20Project%20Setup.md)
+      * [Mod Setup](/Lethal%20Company/Modding/LethalLevelLoader/2.%20Mod%20Setup.md)
         * Moons
           * [Moon Setup](/Lethal%20Company/Modding/LethalLevelLoader/Moons/1.%20Moon%20Setup.md)  
-      * Other guides
-        * Moons
-          * [Snow Footprints on the ground](/Lethal%20Company/Modding/Other/Moons/Snow%20Footprints.md)
-          * [How to split and use vanilla meshes](/Lethal%20Company/Modding/Other/MoonsSnow%20Footprints.md)
+    * Other guides
+      * Moons
+        * [Snow Footprints on the ground](/Lethal%20Company/Modding/Other/Moons/Snow%20Footprints.md)
+        * [How to split and use vanilla meshes](/Lethal%20Company/Modding/Other/MoonsSnow%20Footprints.md)
   * Scriptable Objects
      * [Selectable Level](/Lethal%20Company/ScriptableObjects/SelectableLevel.md)
 * [Credits](Credits.md)
