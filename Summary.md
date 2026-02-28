@@ -20,6 +20,8 @@
       * Moons
         * [Snow Footprints on the ground](/Lethal%20Company/Modding/Other/Moons/Snow%20Footprints.md)
         * [How to split and use vanilla meshes](/Lethal%20Company/Modding/Other/Moons/Mesh%20Splitting.md)
+  * Optimizations
+     * [Materials compression](/Lethal%20Company/Optimizations/Textures%20Optimization.md)
   * Scriptable Objects
-     * [Selectable Level](/Lethal%20Company/ScriptableObjects/SelectableLevel.md)
+     * [Selectable Level](/Lethal%20Company/ScriptableObjects/SelectableLevel.md) 
 * [Credits](Credits.md)
